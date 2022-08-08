@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'optima';
+    src: url(../font/OptimaLTPro-Black.otf);
+}
+
+@font-face {
+    font-family: 'optima-medium';
+    src: url(../font/OptimaLTPro-Medium.otf);
+}
+
+.top-img img {
+    width: 100%;
+}
+
+.top-div {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+
+p,
+label {
+    font-family: 'optima-medium';
+    font-size: 14px;
+    /* margin-bottom: 0; */
+    /* letter-spacing: 0.1px; */
+}
+
+p.text-bold,
+label.text-bold {
+    font-weight: bolder;
+    font-family: 'optima';
+}
+
+p.text-bold {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.mainform {
+    text-align: center;
+}
+
+.row-input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.row-input p {
+    display: inline-block;
+}
+
+.Signature {
+    text-align: center;
+}
+
+.Signature hr {
+    border-top: 1px solid rgb(0 0 0);
+}
+
+.signature {
+    margin-top: 3rem;
+}
+
+.signature-end {
+    margin-top: 3rem;
+    padding-left: 3rem;
+}
+
+.img-signature img {
+    width: 100%;
+}

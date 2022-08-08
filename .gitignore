@@ -1,0 +1,26 @@
+/node_modules
+/public/hot
+/public/uploadedFiles
+/public/storage
+/storage/*.key
+/vendor
+*.xlsx
+*.zip
+*.rar
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+<<<<<<< Updated upstream
+/storage/logs/*
+=======
+public/img/
+storage/logs/
+public/.htaccess
+composer.lock
+error_log
+>>>>>>> Stashed changes
